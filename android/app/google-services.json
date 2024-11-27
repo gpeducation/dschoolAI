@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "851567255670",
+    "firebase_url": "https://dschool40.firebaseio.com",
+    "project_id": "dschool40",
+    "storage_bucket": "dschool40.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851567255670:android:47cb1c0059c0cbbb0abf57",
+        "android_client_info": {
+          "package_name": "com.example.dschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851567255670-0rnqfabhfeq80r7ckfl2qarfupostjpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXnp_iVNtzRSacb3eeiiGXNiqGM50gG_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851567255670-0rnqfabhfeq80r7ckfl2qarfupostjpv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "851567255670-1k14vfh1fmd2njd1gnlnsioh69idil85.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseTutroial"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851567255670:android:6681b96135d1bccc",
+        "android_client_info": {
+          "package_name": "com.gp.dschool40"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851567255670-0rnqfabhfeq80r7ckfl2qarfupostjpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXnp_iVNtzRSacb3eeiiGXNiqGM50gG_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851567255670-0rnqfabhfeq80r7ckfl2qarfupostjpv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "851567255670-1k14vfh1fmd2njd1gnlnsioh69idil85.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseTutroial"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851567255670:android:68f5a26ff9c6f6640abf57",
+        "android_client_info": {
+          "package_name": "com.gp.dschool40.dschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851567255670-0rnqfabhfeq80r7ckfl2qarfupostjpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXnp_iVNtzRSacb3eeiiGXNiqGM50gG_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851567255670-0rnqfabhfeq80r7ckfl2qarfupostjpv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "851567255670-1k14vfh1fmd2njd1gnlnsioh69idil85.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseTutroial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

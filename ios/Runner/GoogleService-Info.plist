@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>851567255670-7p57qcmeeh26eorfaqcbnl0h2uhosbes.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.851567255670-7p57qcmeeh26eorfaqcbnl0h2uhosbes</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAcvWlTz0qgBI5a-hf94jsCWGm_uI_usLo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>851567255670</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gp.dschool40</string>
+	<key>PROJECT_ID</key>
+	<string>dschool40</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dschool40.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:851567255670:ios:6681b96135d1bccc</string>
+	<key>DATABASE_URL</key>
+	<string>https://dschool40.firebaseio.com</string>
+</dict>
+</plist>
